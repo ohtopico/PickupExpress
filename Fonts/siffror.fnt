@@ -1,0 +1,21 @@
+; Format:
+;
+; '[Char]' = [X] [Y] [Width] [Height] [Texture]
+;
+
+[Font]
+HSpace = 1
+
+'0' =   0  0 29 25 siffror
+'1' =  30  0 29 25 siffror
+'2' =  59  0 29 25 siffror
+'3' =  90  0 29 25 siffror
+'4' = 123  0 29 25 siffror
+'5' = 156  0 29 25 siffror
+'6' =   0 25 29 25 siffror
+'7' =  33 25 29 25 siffror
+'8' =  63 25 29 25 siffror
+'9' =  94 25 29 25 siffror
+':' = 125 25 17 25 siffror
+'.' = 141 25 17 25 siffror
+' ' = 158 25 17 25 siffror

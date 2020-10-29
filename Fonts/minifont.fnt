@@ -1,0 +1,139 @@
+x; Format:
+;
+; '[Char]' = [X] [Y] [Width] [Height] [Texture]
+;
+
+[Font]
+HSpace = 1
+
+'0' =   0 24  3  7 minifont
+'1' =   4 24  2  7 minifont
+'2' =   7 24  3  7 minifont
+'3' =  11 24  3  7 minifont
+'4' =  15 24  3  7 minifont
+'5' =  19 24  3  7 minifont
+'6' =  23 24  3  7 minifont
+'7' =  27 24  3  7 minifont
+'8' =  31 24  3  7 minifont
+'9' =  35 24  3  7 minifont
+'!' =  45 17  1  7 minifont
+'"' =  40 16  3  7 minifont
+'/' =  16 16  3  7 minifont
+'(' =  27 16  2  7 minifont
+')' =  30 16  2  7 minifont
+'=' =  53 16  3  7 minifont
+'?' =  48 16  3  7 minifont
+'{' =  56  8  3  7 minifont
+'[' =  20 16  2  7 minifont
+']' =  23 16  2  7 minifont
+'}' =  60  8  3  7 minifont
+'\' =  12 16  3  7 minifont
+'^' =  60 24  3  7 minifont
+
+
+'*' =  58 16  3  7 minifont
+''' =  42 24  1  7 minifont
+',' =  10 16  1  7 minifont
+'.' =   8 16  1  7 minifont
+'-' =  56 24  3  7 minifont
+';' =  34 16  1  7 minifont
+':' =  37 16  1  7 minifont
+'_' =  56 24  3  7 minifont
+'<' =  48 24  3  7 minifont
+'>' =  52 24  3  7 minifont
+'|' =  45 24  1  7 minifont
+'+' =  0  16  3  7 minifont
+' ' =  39 24  3  7 minifont
+'´' =  42 24  1  7 minifont
+'`' =  42 24  1  7 minifont
+
+
+
+'a' =   0  0  3  7 minifont
+'b' =   4  0  3  7 minifont
+'c' =   8  0  3  7 minifont
+'d' =  12  0  3  7 minifont
+'e' =  16  0  3  7 minifont
+'f' =  20  0  3  7 minifont
+'g' =  24  0  3  7 minifont
+'h' =  28  0  3  7 minifont
+'i' =  32  0  1  7 minifont
+'j' =  34  0  3  7 minifont
+'k' =  38  0  3  7 minifont
+'l' =  42  0  3  7 minifont
+'m' =  46  0  5  7 minifont
+'n' =  52  0  4  7 minifont
+'o' =  57  0  3  7 minifont
+'p' =  61  0  3  7 minifont
+'q' =   0  8  4  7 minifont
+'r' =   5  8  3  7 minifont
+'s' =   9  8  3  7 minifont
+'t' =  13  8  3  7 minifont
+'u' =  17  8  5  7 minifont
+'v' =  22  8  3  7 minifont
+'w' =  50  8  5  7 minifont
+'x' =  26  8  3  7 minifont
+'y' =  30  8  3  7 minifont
+'z' =  34  8  3  7 minifont
+'å' =  38  8  3  7 minifont
+'ä' =  42  8  3  7 minifont
+'ö' =  46  8  3  7 minifont
+
+'A' =   0  0  3  7 minifont
+'B' =   4  0  3  7 minifont
+'C' =   8  0  3  7 minifont
+'D' =  12  0  3  7 minifont
+'E' =  16  0  3  7 minifont
+'F' =  20  0  3  7 minifont
+'G' =  24  0  3  7 minifont
+'H' =  28  0  3  7 minifont
+'I' =  32  0  1  7 minifont
+'J' =  34  0  3  7 minifont
+'K' =  38  0  3  7 minifont
+'L' =  42  0  3  7 minifont
+'M' =  46  0  5  7 minifont
+'N' =  52  0  4  7 minifont
+'O' =  57  0  3  7 minifont
+'P' =  61  0  3  7 minifont
+'Q' =   0  8  4  7 minifont
+'R' =   5  8  3  7 minifont
+'S' =   9  8  3  7 minifont
+'T' =  13  8  3  7 minifont
+'U' =  17  8  5  7 minifont
+'V' =  22  8  3  7 minifont
+'W' =  50  8  5  7 minifont
+'X' =  26  8  3  7 minifont
+'Y' =  30  8  3  7 minifont
+'Z' =  34  8  3  7 minifont
+'Å' =  38  8  3  7 minifont
+'Ä' =  42  8  3  7 minifont
+'Ö' =  46  8  3  7 minifont
+
+'Ã' =   0  0  3  7 minifont
+'Â' =   0  0  3  7 minifont
+'Á' =   0  0  3  7 minifont
+'À' =   0  0  3  7 minifont
+'à' =   0  0  3  7 minifont
+'á' =   0  0  3  7 minifont
+'â' =   0  0  3  7 minifont
+'ã' =   0  0  3  7 minifont
+'É' =  16  0  3  7 minifont
+'Ê' =  16  0  3  7 minifont
+'é' =  16  0  3  7 minifont
+'ê' =  16  0  3  7 minifont
+'Í' =  32  0  1  7 minifont
+'í' =  32  0  1  7 minifont
+'Ú' =  17  8  6  7 minifont
+'Ü' =  17  8  6  7 minifont
+'ü' =  17  8  6  7 minifont
+'ú' =  17  8  6  7 minifont
+
+'Ç' =   8  0  3  7 minifont
+'ç' =   8  0  3  7 minifont
+'Ò' =  57  0  3  7 minifont
+'Ó' =  57  0  3  7 minifont
+'Ô' =  57  0  3  7 minifont
+'ò' =  57  0  3  7 minifont
+'ó' =  57  0  3  7 minifont
+'ô' =  57  0  3  7 minifont
+'õ' =  57  0  3  7 minifont

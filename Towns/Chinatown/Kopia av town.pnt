@@ -1,0 +1,32 @@
+pickup bgffy4
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #EL
+pickup wwt33
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Mat
+pickup pytt8
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Bil
+pickup bgf24
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #EL
+pickup bgff27
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #EL
+pickup bgf23
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Mat
+pickup iutt2
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Sport
+pickup bgff3
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Sport
+pickup pickup43
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #EL
+pickup bgfgfff4
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Bil
+pickup bgff1
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Bil
+pickup iuuytt9
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Mat
+pickup pytjgt8
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Sport
+pickup bgff5
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Mat
+pickup reg7
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Bil
+pickup sdnull469
+	allow aftonbladet::3330::140s::box::dvd::kamera::pippi2::refillkort::stereo::dvd2::hamburgare::pingu::lazer::heinz::korv::bilbatteri::philips::wheel::polar #Sport

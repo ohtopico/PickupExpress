@@ -1,0 +1,4 @@
+' CcMaterial Description configuration file
+' <Texture Filename> <Material Type> [Friction] [Energy Absorbation]
+'
+' Example of Material Types: Water, Glass, Steel, Mud, Tree

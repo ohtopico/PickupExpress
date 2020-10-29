@@ -1,0 +1,114 @@
+; Format:
+;
+; '[Char]' = [X] [Y] [Width] [Height] [Texture]
+;
+
+[Font]
+HSpace = 1
+
+'0' =   0  1  8 12 system8
+'1' =   8  1  8 12 system8
+'2' =  16  1  8 12 system8
+'3' =  24  1  8 12 system8
+'4' =  32  1  8 12 system8
+'5' =  40  1  8 12 system8
+'6' =  48  1  8 12 system8
+'7' =  56  1  8 12 system8
+'8' =  64  1  8 12 system8
+'9' =  72  1  8 12 system8
+'½' =  80  1  8 12 system8
+'!' =  88  1  8 12 system8
+'"' =  96  1  8 12 system8
+'#' = 104  1  8 12 system8
+'¤' = 112  1  8 12 system8
+'%' = 120  1  8 12 system8
+'&' = 128  1  8 12 system8
+'/' = 136  1  8 12 system8
+'(' = 144  1  8 12 system8
+')' = 152  1  8 12 system8
+'=' = 160  1  8 12 system8
+'?' = 168  1  8 12 system8
+'@' = 176  1  8 12 system8
+'£' = 184  1  8 12 system8
+'$' = 192  1  8 12 system8
+'{' = 200  1  8 12 system8
+'[' = 208  1  8 12 system8
+']' = 216  1  8 12 system8
+'}' = 224  1  8 12 system8
+'\' = 232  1  8 12 system8
+'^' = 240  1  8 12 system8
+'~' = 248  1  8 12 system8
+
+'*' =   0 14  8 12 system8
+''' =   8 14  8 12 system8
+',' =  16 14  8 12 system8
+'.' =  24 14  8 12 system8
+'-' =  32 14  8 12 system8
+';' =  40 14  8 12 system8
+':' =  48 14  8 12 system8
+'_' =  56 14  8 12 system8
+'<' =  64 14  8 12 system8
+'>' =  72 14  8 12 system8
+'|' =  80 14  8 12 system8
+'a' =  88 14  8 12 system8
+'b' =  96 14  8 12 system8
+'c' = 104 14  8 12 system8
+'d' = 112 14  8 12 system8
+'e' = 120 14  8 12 system8
+'f' = 128 14  8 12 system8
+'g' = 136 14  8 12 system8
+'h' = 144 14  8 12 system8
+'i' = 152 14  8 12 system8
+'j' = 160 14  8 12 system8
+'k' = 168 14  8 12 system8
+'l' = 176 14  8 12 system8
+'m' = 184 14  8 12 system8
+'n' = 192 14  8 12 system8
+'o' = 200 14  8 12 system8
+'p' = 208 14  8 12 system8
+'q' = 216 14  8 12 system8
+'r' = 224 14  8 12 system8
+'s' = 232 14  8 12 system8
+'t' = 240 14  8 12 system8
+
+'u' =   0 28  8 12 system8
+'v' =   8 28  8 12 system8
+'w' =  16 28  8 12 system8
+'x' =  24 28  8 12 system8
+'y' =  32 28  8 12 system8
+'z' =  40 28  8 12 system8
+'A' =  48 28  8 12 system8
+'B' =  56 28  8 12 system8
+'C' =  64 28  8 12 system8
+'D' =  72 28  8 12 system8
+'E' =  80 28  8 12 system8
+'F' =  88 28  8 12 system8
+'G' =  96 28  8 12 system8
+'H' = 104 28  8 12 system8
+'I' = 112 28  8 12 system8
+'J' = 120 28  8 12 system8
+'K' = 128 28  8 12 system8
+'L' = 136 28  8 12 system8
+'M' = 144 28  8 12 system8
+'N' = 152 28  8 12 system8
+'O' = 160 28  8 12 system8
+'P' = 168 28  8 12 system8
+'Q' = 176 28  8 12 system8
+'R' = 184 28  8 12 system8
+'S' = 192 28  8 12 system8
+'T' = 200 28  8 12 system8
+'U' = 208 28  8 12 system8
+'V' = 216 28  8 12 system8
+'W' = 224 28  8 12 system8
+'X' = 232 28  8 12 system8
+'Y' = 240 28  8 12 system8
+'Z' = 248 28  8 12 system8
+
+'å' =   0 41  8 12 system8
+'ä' =   8 41  8 12 system8
+'ö' =  16 41  8 12 system8
+'Å' =  24 41  8 12 system8
+'Ä' =  32 41  8 12 system8
+'Ö' =  40 41  8 12 system8
+'+' =  48 41  8 12 system8
+' ' =  56 41  8 12 system8

@@ -1,0 +1,237 @@
+INTRODUÇÃO
+
+Bem-vindo ao PickUp Express !
+
+O game PickUp Express associa muita ação e diversão . 
+Imagine . . . 
+Você será o proprietário de uma empresa de entregas expressas ! A sua tarefa será apanhar e entregar mercadorias mais rápido do que os seus  adversários ! Poderá até parecer simples, mas será necessário ler o mapa digital , manter-se informado sobre as entregas, assim como do indicador de combustível - tudo isso enquanto estiver dirigindo em alta velocidade, portanto esteja preparado para uma experiência sensacional !
+
+O PickUp Express oferece três modalidades distintas de games : o Delivery Express ,  o Thunder Race e o Formula Express . O Delivery Express poderá ser jogado de duas maneiras , seja como Campeonato , ou como Corrida Express (veja em Modalidades do Game). 
+
+
+CONFIGURAÇÃO MÍNIMA DO SISTEMA 
+
+Para jogar o PickUp Express é necessário :
+
+* Um microcomputador PC com processador Pentium II 266 MHz ou superior .
+* Sistema operacional: Windows 95, Windows 98 ou Windows 2000.
+* 32 MB de memória interna. 64 MB ou mais, tornará o game mais rápido.
+* 150 MB de espaço disponível no seu disco rígido.
+* Uma placa gráfica para SuperVGA com capacidade de pelo menos 65.000 cores.  Seria ainda melhor uma placa aceleradora de vídeo 3D e uma placa de som compatível com  o Windows.
+* Um drive de CD-ROM, de preferência 8x ou superior.
+
+
+INICIAR O GAME
+
+Inserir o CD-ROM no drive de CD. Quando o game for instalado pela primeira vez, o menu exibirá duas opções : 
+
+Jogar o PickUp Express a partir do CD-ROM
+Escolha esta opção para jogar diretamente do CD-ROM. Observe que esta alternativa exigirá mais tempo para iniciar o game e as suas diferentes opções.
+Instalar o PickUp Express
+Escolha esta opção para instalar o game no disco rígido. Siga as instruções na tela. Com esta alternativa, iniciar o game será muito mais rápido. Uma vez instalado, não será mais necessário colocar o CD-ROM para jogar o game. Utilize o CD-ROM apenas quando desejar ouvir música durante o game.
+
+Depois que o PickUp Express estiver instalado, quando o CD-ROM for colocado no drive ,  o seguinte menu será exibido:
+
+Jogar o PickUp Express a partir do disco rígido
+Escolha esta opção caso deseje jogar a versão instalada do PickUp Express. Se o CD-ROM estiver no drive, você poderá ouvir música enquanto estiver jogando.
+
+Desinstalar o PickUp Express 
+Esta opção removerá o game permanentemente do disco rígido.
+
+
+Existem duas maneiras de iniciar o game instalado sem usar o CD-ROM:
+
+* Clicar no botão <Iniciar> do menu de inicialização do seu Windows. Escolha Programas -> PickUp Express -> PickUp Express.
+* Dar um clique-duplo no ícone do PickUp Express no seu computador. Aparecerá  uma caixa de diálogo com o texto Escolha a placa de vídeo:
+Escolha Placa aceleradora de vídeo 3D, caso uma placa aceleradora de vídeo 3D já tenha sido instalada.
+Ou, escolha Placa de vídeo normal.
+Caso tenha uma placa de vídeo 3D, mas estiver tendo problemas com a taxa de "frames", escolha Placa de vídeo 3D ( com problema de velocidade ).
+
+
+MENU
+
+* As setas para cima e para baixo localizadas no seu teclado ,  permitem a movimentação para cima e para baixo, respectivamente, dos itens do menu.
+* As setas , esquerda e direita , permitem alterar entre as várias opções no menu. 
+* A tecla [Enter] confirma a sua escolha.
+
+Ao selecionar [Voltar] ou a tecla [Esc], você sempre retrocederá um passo no menu.
+
+Quando iniciar o game, um Menu Principal mostrará as seguintes opções:
+
+Um jogador :
+Para disputar contra jogadores controlados pelo computador. Apenas um jogador poderá jogar o Campeonato Express  (veja na seção Modalidades do Game).
+
+Multiplayer :
+Para disputar uma partida contra jogadores em rede local (LAN) . Escolha entre "Iniciar" ou "Conectar" a um servidor do game. Em "Iniciar", o game levará você até as configurações do game. Em "Conectar", o game mostrará uma relação de servidores alternativos. A sua escolha será confirmada ao pressionar a tecla [Enter].
+
+Recordes :
+Esta opção mostrará os melhores resultados obtidos no game, baseados no tempo. Escolha a opção do game no menu. Escolha os diferentes cenários com as setas "para esquerda"  e  "para direita" . Escolha o tempo do game com as setas "para cima"  e  "para baixo". Utilize a barra de espaço ou a tecla [Esc] para voltar ao menu.
+
+Configurações :
+Escolha esta opção para ajustar a resolução do seu monitor, o volume dos efeitos sonoros e da música. Você também terá a escolha de manter o manual do game visível enquanto joga o Delivery Express . 
+
+Créditos :
+Conheça os criadores do game !
+
+Patrocinadores :
+Navegue pela seção dos Patrocinadores usando as setas "para esquerda" e  "para direita". Pressione a tecla [Enter] para ir até suas  "homepages" utilizando seu provedor de Internet.
+
+Ajuda :
+Exibe este texto sem sair do game.
+
+Finalizar game : 
+Escolha Sim , caso queira parar de jogar ou Não , caso queira retornar ao Menu Principal.
+
+
+
+CONFIGURAÇÕES DO GAME
+
+As configurações do game tem efeito direto sobre o seu jogo. 
+Cada modalidade do game tem o seu próprio Menu. 
+
+* Nome: Digite o seu nome com o teclado. Para apagar, use a tecla [Back space].
+ 
+* Personagem : Escolha sua identidade entre os oito personagens existentes . A sua aparência não afetará o jogo, mas será o seu ícone pessoal durante todo o game.
+
+* Carro : Escolha um entre os oito modelos diferentes de carros . Cada carro poderá carregar entre 1 e 3 pacotes por vez . 
+
+* Cenário : Escolha uma entre as cinco paisagens urbanas. Dois cenários ficarão ativos desde o início do game. Você poderá acessar os outros três ao jogar o Campeonato .
+
+* Duração do game : Escolha o tempo desejado para jogar uma rodada do Delivery Express . (Isto não se aplica ao Campeonato ou ao Thunder Race ou ao Formula Express) 
+
+* Tempo : Defina o horário do trovão para o Thunder Race . 
+
+* Número de voltas : Escolha quantas voltas você quer dirigir em uma prova do  Formula Express . ( Isto se aplica apenas à Formula Express ) .
+
+* No. Jogadores : Escolha com quantos oponentes do computador você quer competir. ( Isto não se aplica ao Campeonato ) .
+
+* Iniciar : Pressione a tecla [Enter] para iniciar o game !
+
+* "Chat": Escreva mensagens para os seus adversários usando o teclado. As mensagens dos jogadores aparecem como ícones ao lado da opção "Chat" no menu . (Isto se aplica apenas aos games jogados em rede local / LAN). 
+
+* Voltar : Isto colocará você um passo para trás no menu. Pressione a tecla [Enter] para confirmar a sua decisão.
+
+
+MODALIDADES DO GAME
+
+Pode-se jogar o PickUp Express de três formas distintas :
+
+* DELIVERY EXPRESS  
+
+No início do game serão exibidas instruções explicando o Delivery Express. Ao escolher desligar o Tutorial do game na opção Configurações no Menu Principal , as instruções desaparecem.
+
+Qual o objetivo do game?
+
+Você será o dono de uma empresa de entregas e a sua missão será apanhar e entregar mercadorias. Você receberá um pagamento por cada entrega completada. O jogador que acumular a maior quantia de dinheiro no final do game será o vencedor.
+Antes de você começar a apanhar e entregar mercadorias, você deverá pegar um mapa da cidade para ter uma visão geral do ambiente do game. O número de mapas disponíveis na competição será igual ao número de jogadores. Uma seta indicará a rota mais curta até o local onde você poderá pegar o mapa.
+Depois de conseguí-lo , vários pedidos para apanhar mercadorias aparecerão na tela como pequenos pacotes. Agora a sua tarefa será chegar o mais rápido possível ao local para apanhar a mercadoria. Neste local, você apanhará a mercadoria tocando-a com o seu carro. Você precisará ser mais rápido do que seus adversários, senão eles vencerão ! Depois de ter apanhado a mercadoria, uma seta amarela aparecerá no mapa.  O seu objetivo será entregar a mercadoria, dirigindo seu carro até o local da seta amarela . A entrega será completada quando você passar por baixo da seta amarela com o seu carro. Neste momento, você receberá o pagamento. Observe que as entregas em locais mais distantes pagarão mais do que as entregas em locais próximos aos da retirada da mercadoria .
+
+
+Informações na Tela do Computador 
+
+No canto superior esquerdo da tela de seu computador , você encontrará a quantia acumulada do seu dinheiro e dos seus adversários. 
+
+Na parte superior central da sua tela, uma Seta de Direção indicará a menor distância entre o seu carro e o objeto mais próximo. Isto poderá ser um local para retirar ou entregar uma mercadoria, ou um posto de gasolina. 
+
+No canto superior direito existirá um cronômetro indicando o tempo restante do game. 
+
+No canto inferior esquerdo existirão três indicadores:
+
+* O velocímetro, que mostra a velocidade real de seu carro.
+
+* O indicador ambiental mostra o quanto você dirige de forma amigável em relação ao meio ambiente. No final do game, haverá um bônus especial para o motorista mais cuidadoso do ponto de vista ambiental. 
+
+* O indicador de combustível mostra quanta gasolina ainda existe no tanque de seu carro.  Caso fique sem gasolina, você só poderá dirigir em uma velocidade limitada. Você poderá encher o tanque em qualquer posto de gasolina, mas lembre-se que terá que pagar por ela. Você poderá abastecer seu carro em qualquer momento durante o game, basta parar o carro entre as bombas de gasolina, localizadas em qualquer um dos postos. 
+
+Na parte inferior central da sua tela, você verá as mercadorias que foram retiradas com seu carro. 
+
+O canto inferior direito da sua tela exibirá um mapa com os seguintes ícones: 
+
+* O seu próprio carro estará marcado com uma seta verde.
+* Os carros dos adversários estarão marcados com setas vermelhas.
+* Os locais para apanhar as mercadorias serão mostrados como pequenos pacotes marrons.
+* Os locais de entrega estarão marcados com uma seta amarela.
+* Quando o seu tanque de gasolina estiver vazio, aparecerá a localização dos postos de gasolina.
+
+Quando o game termina a pontuação de todos os jogadores será mostrada, inclusive as pontuações ambientais. 
+
+O Delivery Express para um único jogador :
+
+* Campeonato : Você jogará seqüencialmente em cada cenário e o seu progresso aumentará o nível de dificuldade. Escolha - Novo -  se quiser iniciar um novo game. Pode-se escolher entre Iniciante, Intermediário ou Profissional. Escolha - Carregar -  se desejar carregar um game que tenha sido salvo. 
+* Corrida Express :  Aqui você poderá  jogar um único game no cenário que escolher. No início, dois cenários estarão disponíveis. Ao jogar em diferentes níveis de dificuldade do Campeonato ,você ganhará acesso para os outros três cenários . 
+
+
+* THUNDER RACE 
+
+ Para poder jogar o Thunder Race , primeiro você deverá completar a fase                                             "Iniciante"do Campeonato do Delivery Express (veja acima). 
+
+Qual o objetivo do game?
+
+Os carros dos jogadores estarão localizados em uma parte restrita de um dos cenários  escolhidos para a prova . Quando o game começar , uma mercadoria secreta será  entregue a um dos carros de forma aleatória.  Quando o "som do trovâo " for ouvido , o jogador que estiver com ela ,  ficará fora do game. Após alguns segundos, uma nova mercadoria será entregue a outro jogador, também de forma aleatória. Você poderá se livrar dela , transferindo-a para qualquer um dos carros de seus adversários. Basta tocar seu carro no carro do outro jogador . Caso seja excluído do game, você poderá acompanhar o restante da prova através dos carros dos outros jogadores. 
+
+Informações na Tela do Computador
+
+No canto superior esquerdo da sua tela, você terá a visão geral dos seus adversários, informando qual deles está com a mercadoria secreta e o tempo restante para se ouvir o "som do trovâo" . 
+
+No canto superior direito da sua tela, o relógio mostrará o tempo restante para se ouvir o trovâo . Este recurso será exibido apenas quando você estiver carregando a mercadoria secreta .
+No canto inferior esquerdo da sua tela você encontrará o velocímetro. 
+
+No canto inferior direito, um mapa será exibido com os seguintes ícones:
+
+* O seu próprio carro estará marcado com uma seta verde.
+* Quem estiver carregando a mercadoria secreta verá os adversários como setas vermelhas. Os outros jogadores não poderão ver o carro carregando a mercadoria , nem a localização dos seus adversários. 
+
+
+* FORMULA EXPRESS
+
+Para jogar o Formula Express , deve-se primeiro completar a fase " Iniciante " do Campeonato - do Delivery Express (ver acima). 
+
+Qual o objetivo do game?
+
+O objetivo do game é completar , o mais rápido possível , um determinado circuito de rua . Ganha quem cruzar a linha de chegada primeiro ! Durante o game ,  produtos aparecerão aleatoriamente na pista. Você ganhará velocidade TURBO , quando seu carro tocar nestes produtos.
+
+Informações na Tela do Computador 
+
+No canto superior esquerdo da sua tela você terá a visão geral da colocação dos seus adversários.
+
+No parte central superior da tela você encontrará sua tomada de tempo e colocação.
+
+No canto superior direito da sua tela você terá a informação dos tempos, das voltas e outras estatísticas. 
+
+No canto inferior esquerdo da sua tela você encontrará o velocímetro.
+
+No canto inferior direito da sua tela será exibido um mapa com as seguintes funções:
+
+* O seu próprio carro estará marcado com uma seta verde.
+* Os carros dos seus adversários estarão marcados com setas vermelhas.
+
+
+
+CONFIGURAÇÕES DO GAME
+
+Você poderá manobrar seu carro com o teclado ou  com o mouse da seguinte forma:
+
+Teclado
+
+* Seta a esquerda  , dirige o seu carro para a esquerda. 
+* Seta a direita ,  dirige o seu carro para a direita.
+* Seta para cima ou a tecla [A] , aumentam a velocidade do seu carro.
+* Após o carro estar em movimento, a seta para baixo ou a tecla [Z] funcionam como o breque do carro. Se o carro estiver parado, qualquer uma destas opções o colocará em marcha a ré.
+
+Mouse
+
+* Direcione o seu mouse para a esquerda para o carro ir para a esquerda.
+* Direcione o seu mouse para a direita para o carro ir para a direita.
+* Clique no botão esquerdo do mouse para aumentar a velocidade do carro. 
+* Após o carro estar em movimento, clique no botão direito do mouse para acionar o breque. Se o carro estiver parado, isto o coloca em marcha a ré.
+
+Outras funções:
+
+* Para pausar o game, pressione a tecla [P].
+* Para finalizar o game, pressione a tecla [Esc].
+* Para buzinar, pressione a barra de espaço.
+* Para alterar o ângulo da câmera, pressione a tecla [C].
+* Para olhar pelo retrovisor, pressione a tecla [Shift].
+
+
+
